@@ -15,3 +15,6 @@ The app data is saved using async function.
 The state manegment is donw using redux. 
 I've added the innvoationSprint logo as the app icon for both ios and iphone. 
 added an loading screen. 
+
+
+I hope you like this app.
